@@ -1,7 +1,7 @@
 /**
  * 
  * @authors
- * @date    2015-08-14 11:31:56
+ * @date    
  * @version 1.0.3 
  */
 var Meter = (function () { 

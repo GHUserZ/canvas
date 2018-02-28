@@ -1,7 +1,7 @@
 /**
  * 
  * @authors 
- * @date    2015-09-02 12:57:00
+ * @date   
  * @version $Id$
  */
 
