@@ -6,7 +6,7 @@
  */
 
 Object.prototype.extend = function (obj) {
-    for(var k in obj) {
+    for(var k in obj) { 
         if(this.hasOwnProperty(k) && typeof this[k] == 'object') {
             extend(this[k], obj[k]);
         } else {

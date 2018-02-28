@@ -9,7 +9,7 @@ var Radar = (function(){
 
     var options = {
 
-        styles: {
+        styles: { 
             offset: {
                 top: 15,
                 left: 0

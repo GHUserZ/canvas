@@ -2,9 +2,9 @@
  * 
  * @authors
  * @date    2015-08-14 11:31:56
- * @version 1.0.3
+ * @version 1.0.3 
  */
-var Meter = (function () {
+var Meter = (function () { 
 
     var options = {
 
